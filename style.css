@@ -32,7 +32,7 @@ body {
 .hero {
   grid-area: hero;
   min-height: 300px;
-  background-image: url(img/r.png);
+  background-image: url(r.png);
   background-size: cover;
   background-position: center;
   padding: 50px;
@@ -53,14 +53,14 @@ body {
 
 .fitur1 {
   grid-area: fitur1;
-  background-image: url(img/2.jpg);
+  background-image: url(2.jpg);
   background-size: cover;
   color: white;
 }
 
 .fitur2 {
   grid-area: fitur2;
-  background-image: url(img/hp.jpg);
+  background-image: url(hp.jpg);
   background-size: cover;
   color: white;
 }
